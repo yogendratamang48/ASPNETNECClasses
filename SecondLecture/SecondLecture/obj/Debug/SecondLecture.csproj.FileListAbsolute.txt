@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NEC-6th-Sem-Batch\SecondLecture\SecondLecture\bin\Debug\SecondLecture.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NEC-6th-Sem-Batch\SecondLecture\SecondLecture\bin\Debug\SecondLecture.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NEC-6th-Sem-Batch\SecondLecture\SecondLecture\bin\Debug\SecondLecture.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NEC-6th-Sem-Batch\SecondLecture\SecondLecture\obj\Debug\SecondLecture.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NEC-6th-Sem-Batch\SecondLecture\SecondLecture\obj\Debug\SecondLecture.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NEC-6th-Sem-Batch\SecondLecture\SecondLecture\obj\Debug\SecondLecture.pdb
